@@ -3,7 +3,7 @@ package chanstorage
 import (
 	"sync"
 
-	"github.com/divinerapier/divinespider/storage"
+	"github.com/divinerapier/divinespider/core/storage"
 )
 
 // ChanStorage channel 作为存储数据结构

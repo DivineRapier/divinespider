@@ -1,10 +1,3 @@
-/*
- * @Author: divinerapier
- * @Date: 2017-11-18 22:15:36
- * @Last Modified by: divinerapier
- * @Last Modified time: 2017-11-18 23:06:34
- */
-
 package core
 
 import (

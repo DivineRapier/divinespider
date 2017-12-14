@@ -1,17 +1,10 @@
-/*
- * @Author: divinerapier
- * @Date: 2017-11-18 22:36:54
- * @Last Modified by: divinerapier
- * @Last Modified time: 2017-11-18 23:27:15
- */
-
 package phantom
 
 import (
 	"bytes"
 	"os/exec"
 
-	"github.com/divinerapier/divinespider/download"
+	"github.com/divinerapier/divinespider/core/download"
 )
 
 // Phantom phantomjs client

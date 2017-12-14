@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/divinerapier/divinespider/download/phantom"
-	"github.com/divinerapier/divinespider/spider"
-	"github.com/divinerapier/divinespider/storage/chanstorage"
+	"github.com/divinerapier/divinespider/chanstorage"
+	"github.com/divinerapier/divinespider/core/spider"
+	"github.com/divinerapier/divinespider/phantom"
 )
 
 func main() {

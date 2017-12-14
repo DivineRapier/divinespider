@@ -1,10 +1,3 @@
-/*
- * @Author: divinerapier
- * @Date: 2017-11-18 22:38:18
- * @Last Modified by: divinerapier
- * @Last Modified time: 2017-11-18 23:32:57
- */
-
 package core
 
 type (

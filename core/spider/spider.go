@@ -5,8 +5,8 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/divinerapier/divinespider/download"
-	"github.com/divinerapier/divinespider/storage"
+	"github.com/divinerapier/divinespider/core/download"
+	"github.com/divinerapier/divinespider/core/storage"
 )
 
 var defaultSpiderClient = &Spider{}
